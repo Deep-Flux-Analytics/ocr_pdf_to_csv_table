@@ -1,2 +1,2 @@
-# ocr_pdf_to_csv_table
+# OCR PDF to CSV table
 A work that automatically converts a borderless table to an CSV table
